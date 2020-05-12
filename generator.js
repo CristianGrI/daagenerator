@@ -19,6 +19,3 @@ return clientsData;
 
 var clientsData = randomClients(100);
 console.log(clientsData);
-
-
-
